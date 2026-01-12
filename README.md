@@ -94,7 +94,7 @@ This design is intentional to make the full lifecycle easy to understand and rep
 There is **only one file**:
 
 ```
-train_and_cli.py   (or a single Colab cell)
+ps.py   (or a single Colab cell)
 ```
 
 This file contains **all steps in sequence**.
